@@ -1,0 +1,35 @@
+@import url('./Style/Header.css');
+@import url('./Style/OurMission.css');
+@import url('./Style/Team.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+
+
+
+
+
+
+body {
+    /* font-family: Arial, sans-serif; */
+    margin: 0;
+    padding: 0;
+    max-width: 1160px;
+    margin: auto;
+    font-family: 'Old Standard TT', serif;
+    box-sizing: border-box;
+  
+
+   
+   
+}
+h1,h2,h3,h4{
+    font-family: 'Karla', sans-serif;
+}
+img{
+    overflow: hidden;
+}
